@@ -1,0 +1,22 @@
+.viewport {
+    height: 80vh;
+    width: 100%;
+  }
+  
+  .pokemon-item {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pokemon-card {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .loading-spinner {
+    position: fixed;
+    bottom: 20px;
+    left: calc(50% - 25px);
+  }
+  
